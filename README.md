@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dipamdonga
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Spring boot
-- - 💞️ I’m looking to collaborate on Spring boot projects
+- 🌱 I’m currently working with Spring boot
+- 💞️ I’m looking to collaborate on Spring boot projects
 - 📫 How to reach me dipamdonga@gmail.com
 
 <!---
